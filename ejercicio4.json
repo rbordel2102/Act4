@@ -1,0 +1,21 @@
+{
+    "empleados": [
+      {
+        "nombre": "Juan Pérez",
+        "edad": 26,
+        "cargo": "Desarrollador",
+        "salario": 60500,
+        "proyectos": [
+            {
+                "ProyectoShooter": [
+                    {
+                        "nombre": "FPS 2D",
+                        "fecha inicio": "10-12-22",
+                        "tareas asignadas": "diseñador"
+                    }
+                ]
+            }
+        ]
+      }
+    ]
+}

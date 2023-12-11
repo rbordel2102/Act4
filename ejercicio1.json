@@ -1,0 +1,45 @@
+{
+    "escuela": {
+          "estudiantes": [
+            {
+                "informacion_personal": [
+                {
+                    "nombre": "Juan",
+                    "edad": "18",
+                    "lista_de_asignaturas": [
+                        {
+                            "sistemas": "8",
+                            "entorno_de_desarrollo": "6",
+                            "programacion": "7",
+                            "base_de_datos": "9",
+                            "lenguaje_de_marcas": "5"
+                        }
+                    ]
+                }
+                ]
+            }
+          ],
+          "profesores": [
+            {
+                "nombre": "Alvaro",
+                "edad": "29",
+                "lista_de_asignaturas": [
+                {
+                    "sistemas": [
+                        {
+                            "nombre": "Alvaro",
+                            "cantidad_creditos": "10"
+                        }
+                    ],
+                    "programacion": [
+                        {
+                            "nombre": "Alvaro",
+                            "cantidad_creditos": "8"
+                        }
+                    ]
+                }
+            ]
+            }
+        ]
+    }
+}
